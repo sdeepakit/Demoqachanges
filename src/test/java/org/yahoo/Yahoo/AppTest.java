@@ -1,4 +1,4 @@
-package org.demoqa.Demoqa;
+package org.yahoo.Yahoo;
 
 import static org.junit.Assert.assertTrue;
 
